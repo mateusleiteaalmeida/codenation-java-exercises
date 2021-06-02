@@ -1,0 +1,349 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.challenge:spring-data-ddl >--------------------
+[INFO] Building spring-data-ddl 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:resources (default-resources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:compile (default-compile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 9 source files to /home/mateus/codenation/java-9/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:3.1.0:testResources (default-testResources) @ spring-data-ddl ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /home/mateus/codenation/java-9/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.8.1:testCompile (default-testCompile) @ spring-data-ddl ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 12 source files to /home/mateus/codenation/java-9/target/test-classes
+[INFO] /home/mateus/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: /home/mateus/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java uses unchecked or unsafe operations.
+[INFO] /home/mateus/codenation/java-9/src/test/java/com/challenge/suite/ClassTest.java: Recompile with -Xlint:unchecked for details.
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.22.2:test (default-test) @ spring-data-ddl ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.challenge.suite.ChallengeTestSuite
+10:04:28.453 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.489 [main] INFO org.reflections.Reflections - Reflections took 33 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.532 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.534 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.537 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.538 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.543 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.547 [main] INFO org.reflections.Reflections - Reflections took 4 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.550 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.553 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.567 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.568 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.570 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.572 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.574 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.576 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.577 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.580 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.582 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.584 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.587 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.588 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.589 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.591 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.593 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.595 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.596 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.597 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.598 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.600 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.602 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.604 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.606 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.608 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.610 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.612 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.613 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.615 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.620 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.622 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.623 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.625 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.628 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.629 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.632 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.634 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.635 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.636 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.640 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.641 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.642 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.645 [main] INFO org.reflections.Reflections - Reflections took 3 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.646 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.648 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.650 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.652 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.653 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.655 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.657 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.659 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.660 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.662 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.664 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.666 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.670 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.671 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.672 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.674 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.676 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.678 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.679 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.681 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.683 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.684 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.686 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.687 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.688 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.689 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.691 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.692 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.693 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.694 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.696 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.697 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.698 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.701 [main] INFO org.reflections.Reflections - Reflections took 2 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.703 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.705 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.707 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.709 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.711 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.713 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.715 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.717 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.719 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.721 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.722 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.724 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.725 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.727 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.729 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.730 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.733 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.734 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.736 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.737 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.739 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.741 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.743 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.744 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.746 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.747 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.749 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.750 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.753 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.754 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.756 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.757 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.759 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.760 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.762 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.763 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.765 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.766 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.768 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.769 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.771 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.772 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.774 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.775 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.776 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.777 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.778 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.779 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.780 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.781 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.782 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.784 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.785 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.786 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.787 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.788 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.789 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.790 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.792 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.793 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.794 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.795 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.796 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.798 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.802 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.804 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.806 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.807 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.811 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.812 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.813 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.815 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.816 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.818 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.819 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.820 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.821 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.824 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.826 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.827 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.828 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.829 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.829 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.830 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.831 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.832 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.835 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.836 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.837 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.838 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.840 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.841 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.842 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.843 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.845 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.846 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.848 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.848 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.849 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.851 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.856 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.857 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.858 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.858 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.859 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.867 [main] INFO org.reflections.Reflections - Reflections took 8 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.868 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.869 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.869 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.870 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.871 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.872 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.873 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.874 [main] INFO org.reflections.Reflections - Reflections took 1 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.875 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.875 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+10:04:28.876 [main] DEBUG org.reflections.Reflections - going to scan these urls:
+file:/home/mateus/codenation/java-9/target/classes/
+10:04:28.878 [main] INFO org.reflections.Reflections - Reflections took 0 ms to scan 1 urls, producing 4 keys and 16 values 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.563 s - in com.challenge.suite.ChallengeTestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 102, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  4.682 s
+[INFO] Finished at: 2021-03-17T10:04:29-03:00
+[INFO] ------------------------------------------------------------------------
