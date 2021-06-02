@@ -12,7 +12,7 @@ _"O AceleraDev é um programa de capacitação gratuito para profissionais de te
 
 ##### Módulo 1
 
-- [x] 1-1: [_Fibonacci_](https://github.com/mateusleiteaalmeida/codenation-java-exercises/tree/main/java-6)
+- [x] 1-1: [_Fibonacci_](https://github.com/mateusleiteaalmeida/codenation-java-exercises/tree/main/java-0)
 - [x] 1-2: [_Criptografia de Júlio César_](https://github.com/mateusleiteaalmeida/codenation-java-exercises/tree/main/java-6)
 - [x] 1-3: [_Calculadora de Salário Líquido_](https://github.com/mateusleiteaalmeida/codenation-java-exercises/tree/main/java-13)
 
@@ -42,7 +42,7 @@ _"O AceleraDev é um programa de capacitação gratuito para profissionais de te
 
 ##### Módulo 7
 
-- [x] 7-1: [_Oauth2 com spring_](https://github.com/mateusleiteaalmeida/codenation-java-exercises/tree/main/java-12)
+- [x] 7-1: [_Oauth2 com Spring_](https://github.com/mateusleiteaalmeida/codenation-java-exercises/tree/main/java-12)
 
 ##### Módulo 8
 
